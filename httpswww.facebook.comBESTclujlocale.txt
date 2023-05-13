@@ -1,0 +1,15 @@
+https://www.facebook.com/BESTcluj/?locale=ro_RO
+https://www.instagram.com/best_clujnapoca/
+https://www.linkedin.com/company/best-cluj-napoca/
+
+https://bestcj.ro/
+https://best.eu.org/courses/welcome.jsp
+https://www.utcluj.ro/
+
+
+<link href="https://www.facebook.com/BESTcluj/?locale=ro_RO">
+<link href="https://www.instagram.com/best_clujnapoca/">
+<link href="https://www.linkedin.com/company/best-cluj-napoca/">
+<link href="https://bestcj.ro/">
+<link href="https://best.eu.org/courses/welcome.jsp">
+<link href="https://www.utcluj.ro/">
