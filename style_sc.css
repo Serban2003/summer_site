@@ -101,7 +101,7 @@ body {
     text-align: center;
     color: azure;
     background-color: black;
-    background-image: url("cover.jpeg");
+    background-image: url("cover.jpg");
 
     background-position: center center;
     background-size: cover;
@@ -297,8 +297,9 @@ body {
 .contact
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
+    gap: 30px;
     height: auto;
     width: auto;
     align-items: center;
